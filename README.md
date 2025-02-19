@@ -85,4 +85,3 @@ mvn test
 
 Développé par [Alexei de Moraes Zubakin, Montreal, Canada, 2025-02-19]
 
----
