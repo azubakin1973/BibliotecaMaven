@@ -24,3 +24,33 @@ dependency-reduced-pom.xml
 
 # Outros
 .DS_Store 
+
+## Fonctionnalités
+
+- Gestion des livres :
+  - Création et modification de livres
+  - Recherche par ID
+  - Gestion des informations (titre, auteur, année, ISBN)
+- Tests unitaires complets
+- Validation des données
+
+## Exemples d'Utilisation 
+
+## Comment Contribuer
+
+1. Créez un fork du projet
+2. Créez une branche pour votre fonctionnalité (`git checkout -b feature/NouvelleFeature`)
+3. Committez vos changements (`git commit -m 'Ajout d'une nouvelle fonctionnalité'`)
+4. Poussez vers la branche (`git push origin feature/NouvelleFeature`)
+5. Ouvrez une Pull Request
+
+## Bonnes Pratiques de Contribution
+
+- Écrivez des tests unitaires pour les nouvelles fonctionnalités
+- Suivez les conventions de code Java
+- Documentez vos changements
+- Vérifiez que tous les tests passent avant de soumettre une PR
+
+---
+
+Développé par [Alexei de Moraes Zubakin, Montreal, Canada, 2025-02-19] 
